@@ -1,0 +1,8 @@
+id=SQLITE-UPDATE
+name=SQLite Multi arch 3.46.1
+version=V1-STABLE
+versionCode=1
+author=ILLUMI
+description=This Magisk module provides a statically linked and stripped sqlite3 binary for arm64-v8a, armeabi-v7a, x86, and x86_64 devices.
+support=https://trakteer.id/demonica/tip
+donate=https://www.paypal.com/paypalme/faniadittiya
