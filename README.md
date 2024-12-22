@@ -6,7 +6,7 @@
 
 > [!TIP]
 > 1. Open Magisk Manager or Ksu or APatch
-> 2. Install module [SQLite Multi arch 3.46.1](https://t.me/modulkuntul)
+> 2. Install module [SQLite Multi arch 3.47.0](https://t.me/modulkuntul)
 > 3. Reboot
 <hr/>
 
