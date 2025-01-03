@@ -6,14 +6,13 @@
 
 > [!TIP]
 > 1. Open Magisk Manager or Ksu or APatch
-> 2. Install module [SQLite Multi arch 3.47.0](https://t.me/modulkuntul)
+> 2. Install module [Update SQlite for Android](https://t.me/modulkuntul)
 > 3. Reboot
 <hr/>
 
 > [!NOTE]
-> - Support Android 10-15
+> - Update SQlite 3.47.2
 > - Support [Ksu](https://github.com/tiann/KernelSU/releases)-[APatch](https://github.com/bmax121/APatch/releases/tag/10763)-[Magisk](https://github.com/topjohnwu/Magisk/releases/tag/v28.0)
-> - Download [Sdmaid](https://play.google.com/store/apps/details?id=eu.thedarken.sdm)
 <hr/>
 
 > [!WARNING]
@@ -30,7 +29,6 @@
 > Tested on several devices such as.     
 > Redmi Note 12 4G NFC (TOPAZ)     
 > Redmi Note 8 (GINKGO)     
-> Redmi Note 7 (LAVENDER)
 <hr/>
 
 > [![Telegram URL](https://img.shields.io/badge/Telegram-Join-2CA5E?style=social&logo=telegram)](https://t.me/modulkuntul)

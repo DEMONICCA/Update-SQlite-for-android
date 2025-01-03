@@ -1,7 +1,7 @@
 id=SQLITE-UPDATE
-name=SQLite Multi arch
-version=v3.47.0
-versionCode=2
+name=Update SQlite for Android
+version=v3.47.2
+versionCode=3
 author=@illumi
 description=This Magisk module provides a statically linked and stripped sqlite3 binary for arm64-v8a, armeabi-v7a, x86, and x86_64 devices.
 support=https://trakteer.id/demonica/tip
